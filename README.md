@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Artboard%2034.jpg)
-![https://github.com/Purvanshsingh/Purvanshsingh/blob/master/instagram-logos-png-images-free-download-2.png](https://www.instagram.com/singhpurvansh/)
+![https://www.instagram.com/singhpurvansh/](https://github.com/Purvanshsingh/Purvanshsingh/blob/master/instagram-logos-png-images-free-download-2.png)  
 <!--
 **Purvanshsingh/Purvanshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
