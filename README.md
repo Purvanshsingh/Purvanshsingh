@@ -3,7 +3,8 @@
 
 <p align="center">
 	<a href="https://github.com/Purvanshsingh"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a>
+	
 </p>
 
 <!--
