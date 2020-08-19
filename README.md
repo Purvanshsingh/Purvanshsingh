@@ -2,8 +2,9 @@
 ![](https://img.shields.io/badge/Python-Advance-yellow) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-lightgrey) ![](https://img.shields.io/badge/C-Intermediate-lightgrey) 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="https://www.instagram.com/singhpurvansh/"><https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white></a>
-<a href="https://github.com/Purvanshsingh"><img src="https://img.shields.io/github.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="https://www.instagram.com/singhpurvansh/"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white></a>
+[![forthebadge](https://img.shields.io/github/followers/Purvanshsingh?label=GitHub&style=social)](https://github.com/Purvanshsingh)
+
 
 	
 </p>
