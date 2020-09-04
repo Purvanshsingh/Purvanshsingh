@@ -3,10 +3,7 @@
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="https://www.instagram.com/singhpurvansh/"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white></a>
-
-<img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="100" height="100" >
+<img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="400" height="400" >
 	
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
@@ -48,11 +45,8 @@
 </p>
 
 <!--
-**Purvanshsingh/Purvanshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-	<a href="https://twitter.com/TerryTangYuan"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
-# Connect with me
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="https://www.instagram.com/singhpurvansh/"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white></a>
 
 Here are some ideas to get you started:
 
