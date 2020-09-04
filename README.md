@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="400" height="400" >
+<img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="400" height="800" >
 	
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
