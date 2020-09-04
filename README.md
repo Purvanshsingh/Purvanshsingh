@@ -16,11 +16,6 @@
 
 [![alt text][4.1]][4]   **LinkedIn**
 
-[![alt text][5.1]][5]   **Discord**
-
-[![alt text][6.1]][6]   **Github**
-
-[![alt text][7.1]][7]   **Qwiklabs**
 
 <!-- links to social media icons -->
 
