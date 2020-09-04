@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="https://www.instagram.com/singhpurvansh/"><img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white></a>
-
+<p align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-[![alt text][1.1]][1]      [![alt text][2.1]][2]      [![alt text][3.1]][3]     [![alt text][4.1]][4]   
+[![alt text][1.1]][1]             [![alt text][2.1]][2]    	  [![alt text][3.1]][3]  	   [![alt text][4.1]][4]   
 <!-- links to social media icons -->
 
 [1.1]: https://i.imgur.com/kuH8mcP.png 
