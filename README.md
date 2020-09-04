@@ -4,7 +4,6 @@
 
 <p align="left">
 <img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="500" height="150" >
-</p>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
