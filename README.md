@@ -8,7 +8,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
 	
-<pre>[![alt text][1.1]][1]        [![alt text][2.1]][2]        [![alt text][3.1]][3]   **Instagram**     	[![alt text][4.1]][4]   **LinkedIn** </pre>
+[![alt text][1.1]][1]        [![alt text][2.1]][2]        [![alt text][3.1]][3]   **Instagram**     	[![alt text][4.1]][4]   **LinkedIn**
 
 
 <!-- links to social media icons -->
