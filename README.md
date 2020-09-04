@@ -10,47 +10,46 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+[![alt text][1.1]][1]   **Twitter**
 
+[![alt text][2.1]][2]   **Facebook**
+
+[![alt text][3.1]][3]   **Instagram**
+
+[![alt text][4.1]][4]   **LinkedIn**
+
+[![alt text][5.1]][5]   **Discord**
+
+[![alt text][6.1]][6]   **Github**
+
+[![alt text][7.1]][7]   **Qwiklabs**
 
 <!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
+[1.1]: https://i.imgur.com/kuH8mcP.png 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://i.imgur.com/klASuIl.png 
 
-<!-- icons without padding -->
+[3.1]: https://i.imgur.com/5pJX7ys.png 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[4.1]: https://i.imgur.com/VcXtps9.png 
 
+[5.1]: https://i.imgur.com/gtf0sR4.png 
+
+[6.1]: https://i.imgur.com/aAEq7Xh.png 
+
+[7.1]: https://i.imgur.com/hAJIQc3.png?1 
 
 <!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: https://twitter.com/bingJunior_
+[2]: https://www.facebook.com/tariq.umair.71
+[3]: https://www.instagram.com/bingjunior_/?hl=en
+[4]: https://www.linkedin.com/in/umair-tariq-120a11144/
+[5]: bingJunior#3619
+[6]: http://www.github.com/bingJunior
+[7]: https://www.qwiklabs.com/public_profiles/fccaa3e6-8358-4c02-b5a3-bcc11c000f93
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 	
 </p>
