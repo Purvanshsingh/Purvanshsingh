@@ -13,7 +13,7 @@
 
 <!-- links to social media icons -->
 
-[1.1]: https://i.imgur.com/kuH8mcP.png 
+[1.1]: http://i.imgur.com/tXSoThF.png
 
 [2.1]: https://i.imgur.com/klASuIl.png 
 
