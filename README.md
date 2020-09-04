@@ -10,19 +10,7 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]   **Twitter**
-
-[![alt text][2.1]][2]   **Facebook**
-
-[![alt text][3.1]][3]   **Instagram**
-
-[![alt text][4.1]][4]   **LinkedIn**
-
-[![alt text][5.1]][5]   **Discord**
-
-[![alt text][6.1]][6]   **Github**
-
-[![alt text][7.1]][7]   **Qwiklabs**
+[![alt text][1.1]][1]   **Twitter**    [![alt text][2.1]][2]   **Facebook**   [![alt text][3.1]][3]   **Instagram**   [![alt text][4.1]][4]   **LinkedIn**
 
 <!-- links to social media icons -->
 
@@ -42,13 +30,10 @@
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/bingJunior_
-[2]: https://www.facebook.com/tariq.umair.71
-[3]: https://www.instagram.com/bingjunior_/?hl=en
-[4]: https://www.linkedin.com/in/umair-tariq-120a11144/
-[5]: bingJunior#3619
-[6]: http://www.github.com/bingJunior
-[7]: https://www.qwiklabs.com/public_profiles/fccaa3e6-8358-4c02-b5a3-bcc11c000f93
+[1]: https://twitter.com/
+[2]: https://www.facebook.com/purvansh.singh.5
+[3]: https://www.instagram.com/singhpurvansh/
+[4]: https://www.linkedin.com/in/purvansh-singh-2ba971147/
 
 
 	
