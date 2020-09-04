@@ -9,7 +9,6 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-<p align="center">
 [![alt text][1.1]][1]      [![alt text][2.1]][2]      [![alt text][3.1]][3]     [![alt text][4.1]][4]   
 <!-- links to social media icons -->
 
