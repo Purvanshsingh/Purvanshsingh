@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Python-Advance-success) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/DataStructure-Intermediate-yellow) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow) ![](https://img.shields.io/badge/C-Intermediate-yellow) 
 
 
-
+<p align="left">
 <img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Contact%2Bme%2B3.gif" width="500" height="150" >
 	
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
