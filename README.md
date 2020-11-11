@@ -5,34 +5,24 @@
 <p align="left">
 <h1> <img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/5a7362033afa1b00015d8cd4_animat-paper-airplane-color.gif" width="90" height="90" >Connect With Me : </h1>
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<!-- display the social media buttons in your README -->
-	
-[![alt text][1.1]][1]  __ **Twitter** __  [![alt text][2.1]][2] __ **Facebook** __ [![alt text][3.1]][3] __ **Instagram** __ [![alt text][4.1]][4] __ **LinkedIn** __
 
-
-<!-- links to social media icons -->
-
-[1.1]: https://i.imgur.com/kuH8mcP.png
-
-[2.1]: https://i.imgur.com/klASuIl.png 
-
-[3.1]: https://i.imgur.com/5pJX7ys.png 
-
-[4.1]: https://i.imgur.com/VcXtps9.png 
-
-[5.1]: https://i.imgur.com/gtf0sR4.png 
-
-[6.1]: https://i.imgur.com/aAEq7Xh.png 
-
-[7.1]: https://i.imgur.com/hAJIQc3.png?1 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/
-[2]: https://www.facebook.com/purvansh.singh.5
-[3]: https://www.instagram.com/singhpurvansh/
-[4]: https://www.linkedin.com/in/purvansh-singh-2ba971147/
+<div align="center">
+<a href="https://github.com/Purvanshsingh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/purvansh-singh-2ba971147/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/purvansh.singh.5" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/singhpurvansh/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+</div>  
 
 
 	
