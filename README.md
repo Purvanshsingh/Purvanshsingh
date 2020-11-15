@@ -2,7 +2,10 @@
 <div align="center">
 <h1> Hey Purvansh Here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"></h1>
 </div>	
-	
+
+<div align="center">
+![My github stats](https://github-readme-stats.vercel.app/api?username=Purvanshsingh&count_private=true&show_icons=true)
+
 ![](https://img.shields.io/badge/Python-Advance-success) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/DataStructure-Intermediate-yellow) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow) ![](https://img.shields.io/badge/C-Intermediate-yellow) 
 
 
