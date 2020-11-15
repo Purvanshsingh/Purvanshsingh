@@ -1,6 +1,7 @@
 ![alt text](https://github.com/Purvanshsingh/Purvanshsingh/blob/master/Artboard%2034.jpg)
+<div align="center">
 <h1> Hey Purvansh Here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"></h1>
-	
+</div>	
 	
 ![](https://img.shields.io/badge/Python-Advance-success) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/DataStructure-Intermediate-yellow) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow) ![](https://img.shields.io/badge/C-Intermediate-yellow) 
 
