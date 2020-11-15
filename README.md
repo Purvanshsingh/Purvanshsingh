@@ -3,8 +3,9 @@
 <h1> Hey Purvansh Here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"></h1>
 </div>	
 
-<div align="center">
-![My github stats](https://github-readme-stats.vercel.app/api?username=Purvanshsingh&count_private=true&show_icons=true)
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purvanshsingh&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="My github stats"/>
+
 
 ![](https://img.shields.io/badge/Python-Advance-success) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/DataStructure-Intermediate-yellow) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow) ![](https://img.shields.io/badge/C-Intermediate-yellow) 
 
