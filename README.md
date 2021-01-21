@@ -21,8 +21,9 @@
 <img align="center" alt="GitHub" width="60px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
 <img align="center" alt="GitHub" width="50px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 <img align="center" alt="GitHub" width="50px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
-</div> 
-
+</div>
+<h1><h1/>
+<br/>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purvanshsingh&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="My github stats"/>
