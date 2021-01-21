@@ -8,8 +8,8 @@
 
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
-<img align="center" alt="GitHub" width="30px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
-<img align="center" alt="GitHub" width="30px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+<img align="center" alt="GitHub" width="50px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
+<img align="center" alt="GitHub" width="50px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 <img align="center" alt="GitHub" width="30px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
 <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
