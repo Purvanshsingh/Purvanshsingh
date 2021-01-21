@@ -2,8 +2,19 @@
 <div align="center">
 <h1> Hey Purvansh Here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"></h1>
 </div>	
+<h3>I Work on:</h3>
 
-![](https://img.shields.io/badge/Python-Advance-success) ![](https://img.shields.io/badge/Machine%20Learning-Begineer-blue) ![](https://img.shields.io/badge/Scikit--learn-Begineer-blue) ![](https://img.shields.io/badge/DataStructure-Intermediate-yellow) ![](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow) ![](https://img.shields.io/badge/C-Intermediate-yellow) 
+<img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
+<img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
+<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
+
+
+</div> 
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purvanshsingh&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="My github stats"/>
