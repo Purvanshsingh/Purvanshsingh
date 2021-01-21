@@ -2,8 +2,8 @@
 <div align="center">
 <h1> Hey Purvansh Here <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"></h1>
 </div>	
-<div>
-<h3>I Work on:</h3>
+<div align="center">>
+<h3>I have worked on:</h3>
 
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
