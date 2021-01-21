@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h2>My Working Toolkit:</h2>
+<h3>My Working Toolkit:</h3>
 
 <img align="center" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="center" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
@@ -25,6 +25,7 @@
 </div> 
 <br/>
 <br/>
+<h2><h2/>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purvanshsingh&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="My github stats"/>
 
