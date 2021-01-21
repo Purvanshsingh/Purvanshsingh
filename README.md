@@ -7,9 +7,13 @@
 <h3>I have worked on:</h3>
 
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="center" alt="GitHub" width="30px" src="https://pandas.pydata.org/docs/_static/pandas.svg" />
+<img align="center" alt="GitHub" width="30px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+<img align="center" alt="GitHub" width="30px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
 <img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
-<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
+
 <img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
