@@ -24,13 +24,12 @@
 <br/>
 <br/>
 </div>
-
+<br/>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purvanshsingh&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="My github stats"/>
 
 <p align="left">
 <h1> <img src="https://github.com/Purvanshsingh/Purvanshsingh/blob/master/5a7362033afa1b00015d8cd4_animat-paper-airplane-color.gif" width="90" height="90" >Connect With Me : </h1>
-
 
 <div align="center">
 <a href="https://github.com/Purvanshsingh" target="_blank">
