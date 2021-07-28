@@ -1,9 +1,7 @@
 
 <div align="center">
 
-![](https://user-images.githubusercontent.com/49719371/127296640-fd2565e6-befb-4f1a-b77e-eee388909b62.gif)
-
-
+![](https://user-images.githubusercontent.com/49719371/127297177-37354b4d-691c-4749-b117-7833d87e1774.gif)
 
 <div align="center">
 <h3>My working toolkit:</h3>
