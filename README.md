@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![](https://user-images.githubusercontent.com/49719371/127297177-37354b4d-691c-4749-b117-7833d87e1774.gif)
+![](![Purvansh Singh](https://github.com/Purvanshsingh/Purvanshsingh/assets/49719371/29af3d5f-f2c7-42e4-b69e-0f781861fde8)
+)
 
 <div align="center">
 <h3>My working toolkit:</h3>
