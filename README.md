@@ -2,7 +2,7 @@
 <div align="center">
 
 ![](https://github.com/Purvanshsingh/Purvanshsingh/assets/49719371/29af3d5f-f2c7-42e4-b69e-0f781861fde8)
-)
+
 
 <div align="center">
 <h3>My working toolkit:</h3>
