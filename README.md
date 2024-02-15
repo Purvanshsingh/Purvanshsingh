@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![](https://github.com/Purvanshsingh/Purvanshsingh/assets/49719371/29af3d5f-f2c7-42e4-b69e-0f781861fde8)
+![](https://github.com/Purvanshsingh/Purvanshsingh/assets/49719371/391d66d7-0e24-4056-a9ad-c5db5c0e0f7a)
+
 
 
 <div align="center">
